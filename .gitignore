@@ -1,0 +1,9 @@
+# Local .terraform directories
+**/.terraform/*
+
+# Credentials
+/auth/*
+
+# .tfstate
+terraform.tfstate
+*.tfstate.*
